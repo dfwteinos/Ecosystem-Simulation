@@ -9,4 +9,4 @@ Simple type: ``` g++ -o "execname" ecosystem_main.cpp ecosystem.cpp ```
 
 This project contains also an explain of this project and how to be implemented in greek.
 
-*This project is part of the course: System Programming , Winter of 2018. University of Athens, DiT.*
+*This project is part of the course: Object Oriented Programming , Winter of 2018. University of Athens, DiT.*
